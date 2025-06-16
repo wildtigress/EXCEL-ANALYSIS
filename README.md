@@ -1,0 +1,1 @@
+The "GTM Assessment" Excel file contains HR-related datasets including employee details, department info, salary and bonus calculations, and a summary dashboard. It requires data cleaning, validation, and analysis to compute departmental averages, bonuses, and generate insights—ideal for evaluating data transformation and reporting skills in a business context.
